@@ -35,7 +35,7 @@ ShopNest Store Data Analysis Project
 * Average review score
 * Low-rated products/orders
 
-### Skills Demonstrated
+### Skills used
 * Data Cleaning & Preparation
 * SQL Query Writing
 * Python Data Analysis
